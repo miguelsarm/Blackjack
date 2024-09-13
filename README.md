@@ -1,1 +1,3 @@
 # Blackjack
+
+Learning process
